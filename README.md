@@ -10,11 +10,25 @@ Ce projet a été réalisé dans un groupe de 10 où 2 développeurs, dont moi, 
 
 1. Visualisation de l'Emploi du Temps
    
-- L'application récupère les fichiers PDF de l'emploi du temps à partir des liens HTTP fournis. Elle offre une interface conviviale pour afficher l'emploi du temps de manière claire et intuitive, permettant aux étudiants de consulter facilement leurs cours, salles, et horaires.
+- L'application récupère les fichiers PDF de l'emploi du temps à partir des liens HTTP fournis. Elle offre une interface conviviale pour afficher l'emploi du temps de manière claire et intuitive, permettant aux étudiants de consulter facilement leurs cours, salles, et horaires.       
+
+<div style="display: flex; justify-content: space-between;">
+    <img src="https://github.com/Taukix/Emploi-Du-Temps/blob/main/readme_images/screens/planning1.png" width="49%">
+    <img src="https://github.com/Taukix/Emploi-Du-Temps/blob/main/readme_images/screens/planning2.png" width="49%">
+</div> 
+
+---
 
 2. Journal Étudiant (Log-Mag)
 
 - La fonctionnalité Log-Mag permet aux utilisateurs de parcourir les articles du journal étudiant du BUT Informatique. Cela offre une plateforme centralisée pour accéder aux informations et actualités importantes liées au département informatique.
+
+---
+
+<div style="display: flex; justify-content: space-between;">
+    <img src="https://github.com/Taukix/Emploi-Du-Temps/blob/main/readme_images/screens/mag1.png" width="49%">
+    <img src="https://github.com/Taukix/Emploi-Du-Temps/blob/main/readme_images/screens/mag2.png" width="49%">
+</div>
 
 ---
 
